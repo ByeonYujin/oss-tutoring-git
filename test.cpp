@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Capt. Lee Guen"<<endl;
+	cout<<"Capt. Guen Lee"<<endl;
     cout<<"to eat bibimbap"<<endl;
     cout<<"to drink coke"<<endl;
 }
