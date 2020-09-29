@@ -1,9 +1,11 @@
 #include<iostream>
 using namespace std;
 
-int main()
+int main ()
 {
-	cout<<"Capt. Lee Guen"<<endl;
-    cout<<"to eat bibimbap"<<endl;
-    cout<<"to drink coke"<<endl;
+    cout<<"test2"<<endl;
+    
+    cout<<"yujin"<<endl;
+    cout<<"지우개"<<endl;
+    cout<<"팝팝팝";
 }
